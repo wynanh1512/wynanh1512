@@ -1,16 +1,13 @@
-## Hi there 👋
+# Xin chào, mình là Quỳnh Anh 👋
 
-<!--
-**wynanh1512/wynanh1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình là sinh viên năm 2 ngành Tài chính – Ngân hàng
+tại Đại học Ngân hàng TP.HCM (HUB).
 
-Here are some ideas to get you started:
+## Mình đang tìm hiểu
+- GitHub và lập trình từ cơ bản.
+- Ứng dụng công nghệ trong tài chính.
+- Phân tích dữ liệu và phân tích doanh nghiệp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mục tiêu
+Từng bước xây dựng các dự án nhỏ để thực hành
+và phát triển portfolio cá nhân.
